@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots loyaltie to the Protestants of England and Ireland, by proffering to both Houses of Parliament speedie ayd. Also, the answer of the Lord Maior and Sheriffes to the committee, some objections being made against them. Here also is set downe, the true, reall, and exact relation of that bloody mutiny, which was upon Munday last in Westminster Hall, concerning the mainrenance [sic] of bishops, and concerning Colonell Lunsford, who was lieutenant of the Tower. With the contents of certaine letters brought by Mr Burke from Ireland to the High Court of Parliament, Whereunto is annexed, the names of certaine commanders, which are speedily to be dispached for Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92728</idno><idno type="EEBO-CITATION">99859346</idno>
+  <idno type="VID">111420</idno>
+  <idno type="EEBO-PROQUEST">2240883891</idno>
+  
+            <idno type="STC">Wing S2026</idno>
+            <idno type="STC">Thomason E181_16</idno>
+            <idno type="STC">ESTC R12802</idno>
+            <idno type="PROQUEST">99859346</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859346e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111420)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots loyaltie to the Protestants of England and Ireland, by proffering to both Houses of Parliament speedie ayd. Also, the answer of the Lord Maior and Sheriffes to the committee, some objections being made against them. Here also is set downe, the true, reall, and exact relation of that bloody mutiny, which was upon Munday last in Westminster Hall, concerning the mainrenance [sic] of bishops, and concerning Colonell Lunsford, who was lieutenant of the Tower. With the contents of certaine letters brought by Mr Burke from Ireland to the High Court of Parliament, Whereunto is annexed, the names of certaine commanders, which are speedily to be dispached for Ireland.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for William Field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Illustration on verso of last leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lunsford, Thomas, --  Sir, 1610?-1653?</term>
+               <term type="topical_term">Protestants --  England --  Early works to 1800.</term>
+               <term type="topical_term">Protestants --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111420:1"/>
+            <p>THE SCOTS LOYALTIE TO The Protestants of England and Ireland, By proffering to both Houses of <hi>Parliament</hi> speedie Ayd.</p>
+            <p>ALSO, THE ANSWER OF THE Lord Maior and Sheriffes to the Com<g ref="char:EOLhyphen"/>mittee, some Objections being made against them.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere also is fet downe, the true, reall, and exact R<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation of that bloody Mutiny, which was upon Munday last in West<g ref="char:EOLhyphen"/>minster Hall, concerning the maintenance of Bi<g ref="char:EOLhyphen"/>shops, and concerning Colonell Luns<g ref="char:EOLhyphen"/>ford, who was Lieutenant of the Tower.</p>
+            <p>With the Contents of certaine Letters brought by Mr Burke from <hi>Ireland to the High Court of Parliament,</hi>
+            </p>
+            <p>Whereunto is annexed, the Names of certaine Commanders, which are speedily to be dispatched for <hi>Ireland.</hi>
+            </p>
+            <p>printed for William Field, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="relation">
+            <pb facs="tcp:111420:2"/>
+            <pb facs="tcp:111420:2"/>
+            <head>THE True and exact RELATION Of the Disturbance in Westminster Hall.</head>
+            <p>VPon munday being the 27. of Decem. there came in Westminster hall among many other Gentlemen and Citizens, which were walking, and confabulating there a vapouring sellow, which was cloathed with scar<g ref="char:EOLhyphen"/>let breeches, and a short coat, with bootes on his legs, and a sword hy his side, went puffing and blowing up and downe the hall: and at length to the company there present, spake thus.</p>
+            <p>J wonder which of all you dare to speake a<g ref="char:EOLhyphen"/>gainst Bishops: these words divers times he re<g ref="char:EOLhyphen"/>peated, but each man forsooke him, which was of any note: anon he spake to them againe, say<g ref="char:EOLhyphen"/>ing, which of you here dare to speake against Bishops.</p>
+            <pb facs="tcp:111420:3"/>
+            <p>A Country gentleman, and well skilled in weapons stepped for<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and spake thus: whatso<g ref="char:EOLhyphen"/>ever thou art which thus doth domineere, know it that my conscience doth tell me that Bishops ar<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no lavvfull: whereupon they both drevv th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> swords but no hurt was done of either side because the company presently parted them, &amp; let them both passe quietly, the aforesaid domi<g ref="char:EOLhyphen"/>neering <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ello<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v after that went to the Court of Wards, and there before all that were present, he spake the same words as hee did in the Hall, still indeavouring to picke a quarrell vvith them vvhich vvere vvalking, vvhich some perceiving, they said, this is hee that did raise a mutiny in the Hall: vvhereupon he was committed.</p>
+            <p>But the full matter as it is reported, vvas thus, that Colonell <hi>Lu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sford</hi> being removed from the Lieutenants place of the Tovver, certaine men about the number of forty were resolved to be revenged upon those which first went about to vvithstand him, vvhereupon the aforenamed Cavaliere they sent to make a disturbance in Westminster hall, that then they comming in as to part a fray vvith their weapons ready drawn, and then to slay as many as they could.</p>
+            <p>But this fellow vvent about his pretended mischiefe above an h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure before they came: but notvvithstanding vvhen they came they went a<g ref="char:EOLhyphen"/>bout to make a disturbance, vvhereupon the Ap<g ref="char:EOLhyphen"/>prentices
+<pb facs="tcp:111420:3"/>by the encouragement of a company of Saylors did arise, who beat back these treche<g ref="char:EOLhyphen"/>rous men, some escaped by Water and others by Land, but some were taken and committed.</p>
+            <p>The Apprentices upon Tuesday went about to rescue foure of their associates vvhich were prisoners in Woodstreet Counter, but were kept backe by the Trayne-band.</p>
+            <p>The Scots very nobly proffered their service to the King, and are willing in the behalfe of the distressed protestants in <hi>Ireland</hi> to send 10000. men, both houses of Parliament assented, that whereas 5000. have bin in pay ever since their departure from the Northern part of <hi>England,</hi> they should be entertained from the 8 of Janua<g ref="char:EOLhyphen"/>ry next, untill all things were in readinesse for the raising of the rest, and sending them away.</p>
+            <p>There was a complaint made against the Lord Major and the Sheriffes, who being called be<g ref="char:EOLhyphen"/>fore the Committee, answered thus: that what they did, was as they were Magistratvs to allay and dissipate tumults, not knowing what incon<g ref="char:EOLhyphen"/>venience might happen, if not reasonably dedrest. Desiring pardon for any Error they might com<g ref="char:EOLhyphen"/>mit in speaking upon the Citizens said gathe<g ref="char:EOLhyphen"/>ring together.</p>
+            <p>Sir <hi>Richard Wiseman who was wounded in the tumults at Westminster, hath almost recovered it againe, raised be God for it.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:111420:4"/>
+            <head>THE <hi>Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tents of certaine Letters which were brought Irela<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e Lords house by one Mr. Burke.</hi>
+            </head>
+            <p>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey intimated the necessity of a present ayd, wherein also was specified that Sir Thomas Wharton was upon a disparch<g ref="char:EOLhyphen"/>ing of a packet of from the Lords Iustices there residing: and further enformed how the estate of things were.</p>
+            <p>There was setting in Parliament about cer<g ref="char:EOLhyphen"/>taine Commissioners to be drawn up to be sent to <hi>Ireland,</hi> to give power to the Lord Viscount <hi>Rahalagh, Lord President of Connaugh (or to Arthur Esquire)</hi> to raise 500. protestants neerest adjoyning for the defence of the said Province: the said Lord to have the Nomination of the Officers, there was an Order to make <hi>Arthur Iones Esquire</hi> Constable of the Castle of Ros<g ref="char:EOLhyphen"/>comon, and to enable him to raise 100. prote<g ref="char:EOLhyphen"/>stants for W<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rders, for the guard of the said Tower and Castle, the like order to Sir Robert King for the Castle of Aboyld within the said County.</p>
+            <pb facs="tcp:111420:4"/>
+            <p>Vpon Christmas day being saturday, did a Frenchman take water at the Parlia<g ref="char:EOLhyphen"/>ment staires, to be conveyed to <hi>London</hi> bridge, but by the way he thus reported to the water men, that it would be a bloudy day for <hi>London,</hi> either upon the next day being sunday, or else upon munday, which the water-men hea<g ref="char:EOLhyphen"/>ring, they made no answer, but so soone as they came to land, they ceazed upon him, sending for the constable, who because it was Sermon time they carryed him unto the Church, and then had order from the Church-wardens to keepe him in the vestry, untill the Sermon was finished, which he did.</p>
+            <p>Sermon being ended, hee was brought before Sir <hi>Iohn Lentall,</hi> who examining of him, hee said before Twelft day they should further off them.</p>
+            <p>THere were also taken upon Friday night by the watc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seven lusty fellowes, who when they were brought before the Ma<g ref="char:EOLhyphen"/>gistrates and examined where they had beene, they most peremptorily, answered at Masse: then they ask d them, if they were not Confe<g ref="char:EOLhyphen"/>derates with those villaines which invented and plotted treachery against the City, they answe<g ref="char:EOLhyphen"/>red no, but ere long they should find a great al<g ref="char:EOLhyphen"/>teration.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
